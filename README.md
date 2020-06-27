@@ -2,5 +2,5 @@
 
 ## 索引在这
 ******
-:hammer: [GBA-Pokemon-revision-Golden-finger-index](https://raw.githubusercontent.com/HYe2cS/GBA-Pokemon-revision-Golden-finger-index/master/index.txt).***
+:hammer: [GBA-Pokemon-revision-Golden-finger-index](https://raw.githubusercontent.com/HYe2cS/GBA-Pokemon-revision-Golden-finger-index/master/index.txt).
 ******
