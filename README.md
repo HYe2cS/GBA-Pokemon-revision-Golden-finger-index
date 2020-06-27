@@ -5,3 +5,4 @@
 ******
 :hammer:***[GBA宝可梦改版金手指对照索引](https://raw.githubusercontent.com/HYe2cS/GBA-Pokemon-revision-Golden-finger-index/master/index.txt).***
 ******
+存在任何缺漏和谬误请联系我或者提出issue
