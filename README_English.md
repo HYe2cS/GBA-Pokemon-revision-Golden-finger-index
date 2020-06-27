@@ -5,3 +5,4 @@
 ******
 :hammer:***[GBA-Pokemon-revision-Golden-finger-index](https://raw.githubusercontent.com/HYe2cS/GBA-Pokemon-revision-Golden-finger-index/master/index.txt).***
 ******
+If there are any gaps or errors, please contact me or file an issue
